@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.header,
+.footer {
+  background-color: #f8f9fa;
+}
+
+.banner {
+  background-image: url("./assets/images/banner.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 100px 0;
+  text-align: center;
+  height: 100vh; /* Extend to full viewport height */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.my-app .navbar {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.my-app .navbar-brand,
+.my-app .navbar-cobrand {
+  max-width: 33%;
+}
+.my-app .navbar-brand img,
+.my-app .navbar-cobrand img {
+  width: 100%;
+  max-height: 60px;
+  height: auto;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+.footer {
+  padding: 20px 0;
+}
+
+.container.mt-5.pt-5 {
+  margin-top: 6rem; /* Adjust for navbar height */
+  padding-top: 3rem;
+}
