@@ -1,6 +1,6 @@
 # Dubai Municipality Website
 
-This is a responsive website project for Dubai Municipality, showcasing the city's culture and advancements. The site includes a header, footer, banner, slider, and content organized with tabs. The project utilizes HTML, CSS, and jQuery.
+This is a responsive website project for Dubai Municipality, showcasing the city's culture and advancements. The site includes a header, footer, banner, and content organized with tabs. The project utilizes HTML, CSS, and jQuery.
 
 ## Table of Contents
 
@@ -8,8 +8,6 @@ This is a responsive website project for Dubai Municipality, showcasing the city
 * [Usage](#usage)
 * [Features](#features)
 * [Technologies Used](#technologies-used)
-* [Contributing](#contributing)
-* [License](#license)
 
 ## Installation
 1. Clone the repository:
