@@ -23,14 +23,14 @@ cd dubai-m
 2. Ensure you have an internet connection to load the Bootstrap and jQuery libraries from their CDNs.
 
 ## Features
-- Responsive Design: Adjusts smoothly across desktop, tablet, and mobile devices.
-- Navigation Bar: Transparent and fixed-top with a collapsible hamburger menu.
-- Banner Section: Features a background image and text overlay.
-- Tabbed Content: Four tabs highlighting different aspects of Dubai's culture and advancements.
-- Footer: Located at the bottom of the page.
+- **Responsive Design:** Designed with mobile-first principles, the site dynamically adjusts across all screen sizes, ensuring every visitor has an optimal viewing experience, whether on a smartphone, tablet, or desktop.
+- **Navigation Bar:** Transparent and fixed-top with a collapsible hamburger menu.
+- **Banner Section:** A slider with background image featuring Dubai's skyline, paired with text overlay.
+- **Tabbed Content:** Three tabs highlighting different aspects of Dubai's culture and advancements.
+- **Footer:** Located at the bottom of the page.
 
 ## Technologies Used
-- HTML5
-- CSS3
-- Bootstrap 5
-- jQuery
+- **HTML5:** Implements semantic, well-structured markup to ensure easy navigation and accessibility for all users.
+- **CSS3:** Custom styling, animations, and effects create a visually compelling design.
+- **Bootstrap 5:** Enhances responsiveness with a robust framework that ensures a smooth transition across various devices.
+- **jQuery:** Adds interactivity and dynamic content handling.
